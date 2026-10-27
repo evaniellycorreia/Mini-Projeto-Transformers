@@ -71,9 +71,3 @@ O Transformer reduz o erro em cerca de 21% no próximo token e em 55% em 24 h.
 
 Python 3.x, executado em CPU. Os valores podem variar ligeiramente entre máquinas e
 versões do PyTorch.
-
-## Referências
-
-- A. Zhang, Z. C. Lipton, M. Li e A. J. Smola, *Dive into Deep Learning*.
-- A. Vaswani et al., *Attention is All You Need*, NeurIPS, 2017.
-- D. Jurafsky e J. H. Martin, *Speech and Language Processing*.
