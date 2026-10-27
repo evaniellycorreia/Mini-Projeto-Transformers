@@ -6,7 +6,7 @@ Transformer em PyTorch: próximo token (10 min) e próximas 24 h.
 ## Como reproduzir
 
 ~~~bash
-git clone <URL-DO-REPOSITORIO>
+git clone (https://github.com/evaniellycorreia/Mini-Projeto-Transformers)
 cd <nome-do-repositorio>
 python -m venv .venv
 .venv\Scripts\activate          # Linux/macOS: source .venv/bin/activate
